@@ -57,7 +57,7 @@
   <g class="l" style="animation-delay:1.9s">
     <text x="24" y="304" class="t">08:17:01.685</text><text x="128" y="304" class="i">INFO</text>
     <text x="186" y="304" class="c">g.d.Data</text>
-    <text x="366" y="304" class="m">: Data under control: relational <tspan class="b">SQL</tspan> + flexible <tspan class="b">MongoDB</tspan></text>
+    <text x="366" y="304" class="m">: Data under control: relational <tspan class="b">PostgreSQL</tspan> + flexible <tspan class="b">MongoDB</tspan></text>
   </g>
   <g class="l" style="animation-delay:2.3s">
     <text x="24" y="330" class="t">08:17:01.822</text><text x="128" y="330" class="i">INFO</text>
